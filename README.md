@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
     subgraph A[Clients]
         A1[Client 1] --> B[Auth Service]
